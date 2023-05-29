@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hey 👋, je suis Yuchiima</h1>
 <h3 align="center">Développeur web | FullRemote | IndieMaker</h3>
 
