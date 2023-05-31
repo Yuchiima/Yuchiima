@@ -5,6 +5,8 @@
 
 - 🌱 Vous serez en mesure de trouver l'ensemble de ces services ici : **https://equativa.com**
 
+- 🌱 Je gère une communauté francophone d'indiemaker : https://discord.gg/Qm2wK4UPRM
+
 - 📫 Discord [Yuchima#3668](Yuchima#3668)
 
 - 📫 Ou par mail **yuchiima@gmail.com**
