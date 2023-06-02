@@ -3,9 +3,7 @@
 
 - 🔭 Je travaille actuellement sur un réseau de **services web, outils en ligne....**
 
-- 🌱 Vous serez en mesure de trouver l'ensemble de ces services ici : **https://equativa.com**
-
-- 🌱 Je gère une communauté francophone d'indiemaker : https://discord.gg/Qm2wK4UPRM
+- 🌱 Vous serez en mesure de trouver ma banque de ressources (thême, pdf, etc...) ici : **https://equativa.com**
 
 - 📫 Discord [Yuchima#3668](Yuchima#3668)
 
