@@ -11,7 +11,7 @@
 </p> 
 
 <h3 align="center"> 
-Développeur web / web mobile - Remote - Open source
+Développeur web / web mobile - Remote - IndieMaker
 </h3>
 
 <p align="center"> 
